@@ -1,5 +1,5 @@
 body {
-    background-color: var(--cor-de-fundo);
-    color: var(--azul);
+    background-color: rgb(0, 174, 255);
+    color:rgb(0, 174, 255);
     font-family: 'Chakra Petch', sans-serif;
 }
